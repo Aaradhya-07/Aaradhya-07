@@ -18,7 +18,6 @@
 ### 🐍 Contribution Snake Game
 ![snake gif](https://github.com/Aaradhya-07/Aaradhya-07/blob/output/snake.svg)
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaradhya-07&show_icons=true&locale=en&layout=compact" alt="aaradhya-07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaradhya-07&show_icons=true&locale=en" alt="aaradhya-07" /></p>
